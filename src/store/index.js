@@ -39,5 +39,6 @@ export default new Vuex.Store({
 	state,
 	getters,
 	actions,
+	//改一个试一试
 	mutations,
 })
